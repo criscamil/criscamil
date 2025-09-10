@@ -42,16 +42,17 @@ I study through platforms like Coursera and efundae.es.
 
 ## 🎯 Visión profesional
 
-Construir una carrera en ciencia de datos que combine análisis técnico con sensibilidad humana.  
-Quiero aplicar mis habilidades en proyectos que generen impacto real, especialmente en temas ambientales, sociales y de atención al cliente.  
-Mi meta es crecer profesionalmente en España, sin perder mis raíces en Quimbaya, y contribuir a decisiones más conscientes a través de datos bien interpretados.
+Construir una carrera en ciencia de datos que combine el análisis técnico con sensibilidad humana.  
+Quiero aplicar mis habilidades en proyectos que generen impacto real, especialmente en ámbitos ambientales, sociales, empresariales y de atención al cliente.  
+Mi meta es crecer profesionalmente sin perder mi esencia, y contribuir a decisiones más conscientes a través de datos bien interpretados.
+
 
 ---
 ## 🎯 Professional Vision
 
 To build a data science career that blends technical analysis with human sensitivity.  
-I aim to apply my skills to projects with real impact—especially in environmental, social, and customer-focused areas.  
-My goal is to grow professionally in Spain while staying rooted in Quimbaya, and contribute to more conscious decision-making through well-interpreted data.
+I aim to apply my skills to projects with meaningful impact—especially in environmental, social, business, and customer-focused areas.  
+My goal is to grow professionally without losing my essence, and to contribute to more conscious decision-making through well-interpreted data.
 
 ---
 
