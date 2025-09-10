@@ -1,5 +1,6 @@
 **“Los datos cuentan historias, pero hay que saber escucharlas.”**
-## 🇪🇸 Sobre mí
+
+## Sobre mí
 
 # ¡Hola! 👋 Soy Camilo.
 
@@ -62,13 +63,9 @@ My goal is to grow professionally without losing my essence, and to contribute t
 
 ---
 
-## 🚀 Proyectos destacados
-- [PROYECTO-1-IBM](https://github.com/criscamil/PROYECTO-1-IBM) – Análisis de crédito con sesgo
----
-
 ## 🚀 Featured Projects
 - [PROYECTO-1-IBM](https://github.com/criscamil/PROYECTO-1-IBM) – Credit bias analysis
-- 
+  
 
 ## 📫 Contacto
 - 📧 camiloresma@gmail.com
