@@ -59,7 +59,9 @@ My goal is to grow professionally without losing my essence, and to contribute t
 
 ## 🚀 Proyectos destacados
 
-- [PROYECTO-1-IBM](https://github.com/criscamil/PROYECTO-1-IBM) – Análisis de crédito con sesgo
+-[PROYECTO-1- DE CLASE](https://github.com/criscamil/breast_cancer_camilo)- Primer proyecto de clase.
+-[PROYECTO-2-PM2.5](https://github.com/criscamil/PROYECTO-FINAL) - Concentración del contaminante PM2.5 en    la calidad del aire de una estación de monitoreo de una ciudad.
+- [PROYECTO-3-IBM](https://github.com/criscamil/PROYECTO-1-IBM) –Análisis de crédito con sesgo, ejercicio de clase.
 
 ---
 
@@ -68,8 +70,8 @@ My goal is to grow professionally without losing my essence, and to contribute t
   
 
 ## 📫 Contacto
-- 📧 camiloresma@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 cristianmarulo@gmail.com
+- 🌐 [LinkedIn](www.linkedin.com/in/cristian-camilo-restrepo-marulanda)
 
 ----
 ## 🧰 Tech Stack
@@ -81,13 +83,6 @@ My goal is to grow professionally without losing my essence, and to contribute t
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
 ----
-
-## 🏅 Certificaciones
-
-Explora mis insignias técnicas obtenidas a través de IBM SkillsBuild y otras plataformas:  
-🔗 [Ver perfil en Credly](https://www.credly.com/users/cristian-camilo-restrepo)
-----
-![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=criscamil&show_icons=true&theme=merko)
 
 ## 🏅 Credenciales y Certificaciones
 
