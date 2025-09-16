@@ -15,7 +15,7 @@ Me formo a través de plataformas como Coursera y efundae.es.
 # Hi! 👋 I'm Camilo.
 
 Passionate about data science, environmental impact, and customer care.  
-Currently exploring the data world with a critical, detailed, and human-centered approach in projects using Python, Tableau, SQL, NoSQL, MySQL, and Spark.  
+Currently exploring the data world with a critical, detailed, and human-centered approach in projects using Python, WatsonX,, SQL, NoSQL, MySQL,Spark and Power BI.  
 I study through platforms like Coursera and efundae.es.  
 🎓 Bootcamps in Data Science and Machine Learning  
 📌 Short courses in CRM and ethical visualization  
