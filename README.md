@@ -1,4 +1,4 @@
-**“Los datos cuentan historias, pero hay que saber escucharlas.”**
+**“Sin datos, es simplemente otra persona con una opinión.  W.Edwards Deming”**
 
 ## Sobre mí
 
