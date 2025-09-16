@@ -7,8 +7,8 @@
 Apasionado por la ciencia de datos, el impacto ambiental y la atención al cliente.  
 Actualmente me adentro al mundo de los datos aplicando una visión crítica, detallada y humana en proyectos con Python, Tableau, SQL, NoSQL, MySQL y Spark.  
 Me formo a través de plataformas como Coursera y efundae.es.  
-🎓 Bootcamps en Data Science y Machine Learning  
-📌 Cursos cortos en CRM y visualización ética  
+🎓 Bootcamps en Data Science y Machine Learning en [ID Digital School](https://iddigitalschool.com/)
+📌 Cursos cortos en Power BI,  CRM y visualización ética de los datos. 
 🏅 Insignias obtenidas por habilidades técnicas en IBM SkillsBuild
 
 ---
