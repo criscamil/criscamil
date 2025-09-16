@@ -89,3 +89,9 @@ My goal is to grow professionally without losing my essence, and to contribute t
 - [Mentalidad Digital – IBM SkillsBuild](https://www.credly.com/badges/297d7471-0069-42c1-bc47-a32d26235c22/public_url)
 - [Certificado en Analítica de Datos – IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/PLAN-9380EC6615C4/track-progress)
 
+
+### Bootcamp en Data Science y Machine Learning  
+![Certificado Bootcamp](./DataScience%20y%20ML.jpeg)  
+🔗 [Ver commit de la imagen en GitHub](https://github.com/criscamil/criscamil/commit/4f6daa102b600bcbc18bf3628de477b643ea5e3c)  
+
+
