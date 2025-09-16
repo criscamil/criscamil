@@ -5,7 +5,7 @@
 # ¡Hola! 👋 Soy Camilo.
 
 Apasionado por la ciencia de datos, el impacto ambiental y la atención al cliente.  
-Actualmente me adentro al mundo de los datos aplicando una visión crítica, detallada y humana en proyectos con Python, Tableau, SQL, NoSQL, MySQL y Spark.  
+Actualmente me adentro al mundo de los datos aplicando una visión crítica, detallada y humana en proyectos con Python, watsonX, SQL, NoSQL,Spark y Power BI.  
 Me formo a través de plataformas como Coursera y efundae.es.  
 🎓 Bootcamps en Data Science y Machine Learning en [ID Digital School](https://iddigitalschool.com/)
 📌 Cursos cortos en Power BI,  CRM y visualización ética de los datos. 
