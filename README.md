@@ -91,7 +91,8 @@ My goal is to grow professionally without losing my essence, and to contribute t
 
 
 ### Bootcamp en Data Science y Machine Learning  
-![Certificado Bootcamp](./DataScience%20y%20ML.jpeg)  
+![Certificado Bootcamp](./DataScience%20y%20ML.jpeg) 
+![Certificado IA y Prompting](Prompting%20responsable%20maximiza%20la%20IA%20en%20tu.jpg)
 ![Certificado IA](Inteligencia%20Artificial%20y%20Productividad.pdf)
 
 🔗 [Ver commit de la imagen en GitHub](https://github.com/criscamil/criscamil/commit/4f6daa102b600bcbc18bf3628de477b643ea5e3c)  
