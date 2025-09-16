@@ -89,4 +89,8 @@ Explora mis insignias técnicas obtenidas a través de IBM SkillsBuild y otras p
 ----
 ![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=criscamil&show_icons=true&theme=merko)
 
+## 🏅 Credenciales y Certificaciones
+
+- [Mentalidad Digital – IBM SkillsBuild](https://www.credly.com/badges/297d7471-0069-42c1-bc47-a32d26235c22/public_url)
+- [Certificado en Analítica de Datos – IBM SkillsBuild](https://skills.yourlearning.ibm.com/activity/PLAN-9380EC6615C4/track-progress)
 
