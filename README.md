@@ -57,16 +57,17 @@ My goal is to grow professionally without losing my essence, and to contribute t
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos 
 
 -[PROYECTO-1- DE CLASE](https://github.com/criscamil/breast_cancer_camilo)- Primer proyecto de clase.
--[PROYECTO-2-PM2.5](https://github.com/criscamil/PROYECTO-FINAL) - Concentración del contaminante PM2.5 en    la calidad del aire de una estación de monitoreo de una ciudad.
-- [PROYECTO-3-IBM](https://github.com/criscamil/PROYECTO-1-IBM) –Análisis de crédito con sesgo, ejercicio de clase.
+
+-[PROYECTO-2-PM2.5](https://github.com/criscamil/PROYECTO-FINAL) - Concentración del contaminante PM2.5 en la calidad del aire de una estación de monitoreo de una ciudad.
+
+[PROYECTO-3-IBM](https://github.com/criscamil/PROYECTO-1-IBM) –Análisis de crédito con sesgo, ejercicio de clase.
+
+[PROYECTO-4-PRACTICA](https://github.com/criscamil/Apps-movilidad-en-Colombia)- Análisis de percepción ciudadana sobre apps de movilidad en Colombia
 
 ---
-
-## 🚀 Featured Projects
-- [PROYECTO-1-IBM](https://github.com/criscamil/PROYECTO-1-IBM) – Credit bias analysis
   
 
 ## 📫 Contacto
